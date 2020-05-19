@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+h1{
+    padding: 20px;
+}
+
+body{
+    background: linear-gradient(to right, #f2f602, rgb(245, 242, 101) , #dfdb04);
+    text-align: center;
+}
+
+.f1{
+    float: left;
+    position: relative;
+    margin-top: 2%;
+    left: 5%;
+    font-size: 20px;
+    border: solid 2px black;
+    width: 40%;
+    height: 30%;
+    border-radius: 15px;
+    padding: 0px 0px 100px;
+    background-image: url(../img/homer.jpeg);
+    background-size: cover;
+}
+
+.f2{
+    float: left;
+    position: relative;
+    left: 10%;
+    margin-top: 2%;
+    font-size: 20px;
+    border: solid 2px black;
+    width: 40%;
+    height: 30%;
+    border-radius: 15px;
+    padding: 10px;
+    padding: 0px 0px 100px;
+    background-image: url(../img/nedflanders.jpg);
+    background-size: cover;
+}
+
+input{
+    font-size: 15px;
+}
+
+.inputTXT{
+    position: relative;
+    left: 30%;
+    text-align: center;
+    border: solid 1px black;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.inputBTN{
+    position: relative;
+    margin-top: 22%;
+    left:37%;
+    font-size: 50px;
+    padding: 10px;
+    border: solid 3px black;
+    border-radius: 15px;
+    width: 20%;
+    height: 15%;
+}
+
+#btnAdicionar{
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 10px;
+}
+
+#btnComparacao{
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 10px;
+}
