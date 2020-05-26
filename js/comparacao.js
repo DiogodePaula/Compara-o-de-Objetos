@@ -11,7 +11,7 @@ class ComparacaoObjetos{
         this.altura2 = document.getElementById("txtAltura2");
         this.peso = document.getElementById("txtPeso");
         this.peso2 = document.getElementById("txtPeso2");
-        this.btnComparacao = document.getElementById("txtComparacao");
+        this.btnComparacao = document.getElementById("btnComparacao");
         this.btnAdicionar = document.getElementById("btnAdicionar");
         this.botao();
     }
